@@ -1,0 +1,10 @@
+.form-group {
+    margin-bottom: 15px;
+}
+
+.main-footer {
+    background-color:#666666
+    height: 35px;
+    position: fixed;
+    width: 100%;
+}
